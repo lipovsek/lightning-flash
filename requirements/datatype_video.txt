@@ -5,4 +5,4 @@ Pillow >7.1, <10.1.0
 kornia >=0.5.1, <=0.7.0
 pytorchvideo ==0.1.5
 
-fiftyone <=0.21.6
+fiftyone <=0.23.2
